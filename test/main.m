@@ -32,8 +32,7 @@ int main(int argc, char * argv[])
         
         //[fengjie release];
         
-
-    return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
 
