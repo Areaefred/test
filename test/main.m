@@ -15,11 +15,8 @@
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
-        
         NSString *name=[[NSString alloc] initWithFormat:@"小花"];
-        
-      Nurse *nurse=[[Nurse alloc] init];//代理人 nurse
-        
+        Nurse *nurse=[[Nurse alloc] init];//代理人 nurse
         Morther *morther=[[Morther alloc] initWithName:name delegate:nurse];//这样就将代理人传入mother对象中，这样mother对象便可以通过nurse来完成她自己不能做的事情了。
         
         //[name ];
