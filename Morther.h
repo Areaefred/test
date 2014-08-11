@@ -17,7 +17,7 @@
     
     NSString *name;
     
-    id<Job> delegate;   //此处声明一个代理人，从而mother可以让代理人完成需要代理的事情
+    id<Job> delegate;   //此处声明一个代理人，从而mother可以让代理人完成需要代理的事情  //此处尚不懂
     
 }
 
