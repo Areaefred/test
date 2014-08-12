@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE566B0C1999DAE400144DCE /* BasicKnowledgeAccumulation.m in Sources */ = {isa = PBXBuildFile; fileRef = EE566B0B1999DAE400144DCE /* BasicKnowledgeAccumulation.m */; };
 		EE9019EB193ACBB600A8E3F2 /* Nurse.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9019EA193ACBB600A8E3F2 /* Nurse.m */; };
 		EE9019EE193AD53900A8E3F2 /* Mother.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9019ED193AD53900A8E3F2 /* Mother.m */; };
 		EEA7CE5619347767007525A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA7CE5519347767007525A3 /* Foundation.framework */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EE566B0A1999DAE400144DCE /* BasicKnowledgeAccumulation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicKnowledgeAccumulation.h; sourceTree = "<group>"; };
+		EE566B0B1999DAE400144DCE /* BasicKnowledgeAccumulation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicKnowledgeAccumulation.m; sourceTree = "<group>"; };
 		EE9019E8193ACAFE00A8E3F2 /* Job.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Job.h; sourceTree = "<group>"; };
 		EE9019E9193ACBB600A8E3F2 /* Nurse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Nurse.h; sourceTree = "<group>"; };
 		EE9019EA193ACBB600A8E3F2 /* Nurse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Nurse.m; sourceTree = "<group>"; };
@@ -92,6 +95,8 @@
 		EEA7CE4919347767007525A3 = {
 			isa = PBXGroup;
 			children = (
+				EE566B0A1999DAE400144DCE /* BasicKnowledgeAccumulation.h */,
+				EE566B0B1999DAE400144DCE /* BasicKnowledgeAccumulation.m */,
 				EE9019EC193AD53900A8E3F2 /* Mother.h */,
 				EE9019ED193AD53900A8E3F2 /* Mother.m */,
 				EE9019E9193ACBB600A8E3F2 /* Nurse.h */,
@@ -266,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE566B0C1999DAE400144DCE /* BasicKnowledgeAccumulation.m in Sources */,
 				EEA7CE6F19347768007525A3 /* SecondViewController.m in Sources */,
 				EEA7CE6619347768007525A3 /* AppDelegate.m in Sources */,
 				EE9019EB193ACBB600A8E3F2 /* Nurse.m in Sources */,
