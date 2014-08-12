@@ -1,5 +1,5 @@
 //
-//  Morther.h
+//  Mother.h
 //  test
 //
 //  Created by weiheng on 14-6-1.
@@ -11,7 +11,7 @@
 
 //@class Nurse;
 
-@interface Morther : NSObject
+@interface Mother : NSObject
 
 {
     

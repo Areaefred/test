@@ -1,17 +1,17 @@
 //
-//  Morther.m
+//  Mother.m
 //  test
 //
 //  Created by weiheng on 14-6-1.
 //  Copyright (c) 2014年 weiheng. All rights reserved.
 //
 
-#import "Morther.h"
+#import "Mother.h"
 #import "Nurse.h"
 
 
 
-@implementation Morther
+@implementation Mother
 -(id)initWithName:(NSString *)_name delegate:(id)_delagete
 
 {
