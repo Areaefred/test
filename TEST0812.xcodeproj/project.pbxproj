@@ -42,14 +42,14 @@
 		EE9019EA193ACBB600A8E3F2 /* Nurse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Nurse.m; sourceTree = "<group>"; };
 		EE9019EC193AD53900A8E3F2 /* Morther.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Morther.h; sourceTree = "<group>"; };
 		EE9019ED193AD53900A8E3F2 /* Morther.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Morther.m; sourceTree = "<group>"; };
-		EEA7CE5219347767007525A3 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEA7CE5219347767007525A3 /* TEST0812.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST0812.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEA7CE5519347767007525A3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		EEA7CE5719347767007525A3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		EEA7CE5919347767007525A3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		EEA7CE5D19347767007525A3 /* test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test-Info.plist"; sourceTree = "<group>"; };
+		EEA7CE5D19347767007525A3 /* TEST0812.temp_caseinsensitive_rename-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TEST0812.temp_caseinsensitive_rename-Info.plist"; sourceTree = "<group>"; };
 		EEA7CE5F19347767007525A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EEA7CE6119347768007525A3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		EEA7CE6319347768007525A3 /* test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test-Prefix.pch"; sourceTree = "<group>"; };
+		EEA7CE6319347768007525A3 /* TEST0812.temp_caseinsensitive_rename-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TEST0812.temp_caseinsensitive_rename-Prefix.pch"; sourceTree = "<group>"; };
 		EEA7CE6419347768007525A3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EEA7CE6519347768007525A3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		EEA7CE6819347768007525A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -58,9 +58,9 @@
 		EEA7CE6D19347768007525A3 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		EEA7CE6E19347768007525A3 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		EEA7CE7019347768007525A3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		EEA7CE7619347768007525A3 /* testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEA7CE7619347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TEST0812.temp_caseinsensitive_renameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEA7CE7719347768007525A3 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		EEA7CE7F19347768007525A3 /* testTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "testTests-Info.plist"; sourceTree = "<group>"; };
+		EEA7CE7F19347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TEST0812.temp_caseinsensitive_renameTests-Info.plist"; sourceTree = "<group>"; };
 		EEA7CE8119347768007525A3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EEA7CE8319347768007525A3 /* testTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -107,8 +107,8 @@
 		EEA7CE5319347767007525A3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EEA7CE5219347767007525A3 /* test.app */,
-				EEA7CE7619347768007525A3 /* testTests.xctest */,
+				EEA7CE5219347767007525A3 /* TEST0812.temp_caseinsensitive_rename.app */,
+				EEA7CE7619347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -143,10 +143,10 @@
 		EEA7CE5C19347767007525A3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EEA7CE5D19347767007525A3 /* test-Info.plist */,
+				EEA7CE5D19347767007525A3 /* TEST0812.temp_caseinsensitive_rename-Info.plist */,
 				EEA7CE5E19347767007525A3 /* InfoPlist.strings */,
 				EEA7CE6119347768007525A3 /* main.m */,
-				EEA7CE6319347768007525A3 /* test-Prefix.pch */,
+				EEA7CE6319347768007525A3 /* TEST0812.temp_caseinsensitive_rename-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 		EEA7CE7E19347768007525A3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EEA7CE7F19347768007525A3 /* testTests-Info.plist */,
+				EEA7CE7F19347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests-Info.plist */,
 				EEA7CE8019347768007525A3 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -172,9 +172,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EEA7CE5119347767007525A3 /* test */ = {
+		EEA7CE5119347767007525A3 /* TEST0812.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEA7CE8719347768007525A3 /* Build configuration list for PBXNativeTarget "test" */;
+			buildConfigurationList = EEA7CE8719347768007525A3 /* Build configuration list for PBXNativeTarget "TEST0812.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				EEA7CE4E19347767007525A3 /* Sources */,
 				EEA7CE4F19347767007525A3 /* Frameworks */,
@@ -184,14 +184,14 @@
 			);
 			dependencies = (
 			);
-			name = test;
+			name = TEST0812.temp_caseinsensitive_rename;
 			productName = test;
-			productReference = EEA7CE5219347767007525A3 /* test.app */;
+			productReference = EEA7CE5219347767007525A3 /* TEST0812.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EEA7CE7519347768007525A3 /* testTests */ = {
+		EEA7CE7519347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EEA7CE8A19347768007525A3 /* Build configuration list for PBXNativeTarget "testTests" */;
+			buildConfigurationList = EEA7CE8A19347768007525A3 /* Build configuration list for PBXNativeTarget "TEST0812.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				EEA7CE7219347768007525A3 /* Sources */,
 				EEA7CE7319347768007525A3 /* Frameworks */,
@@ -202,9 +202,9 @@
 			dependencies = (
 				EEA7CE7C19347768007525A3 /* PBXTargetDependency */,
 			);
-			name = testTests;
+			name = TEST0812.temp_caseinsensitive_renameTests;
 			productName = testTests;
-			productReference = EEA7CE7619347768007525A3 /* testTests.xctest */;
+			productReference = EEA7CE7619347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -221,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EEA7CE4D19347767007525A3 /* Build configuration list for PBXProject "test" */;
+			buildConfigurationList = EEA7CE4D19347767007525A3 /* Build configuration list for PBXProject "TEST0812" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -234,8 +234,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EEA7CE5119347767007525A3 /* test */,
-				EEA7CE7519347768007525A3 /* testTests */,
+				EEA7CE5119347767007525A3 /* TEST0812.temp_caseinsensitive_rename */,
+				EEA7CE7519347768007525A3 /* TEST0812.temp_caseinsensitive_renameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -288,7 +288,7 @@
 /* Begin PBXTargetDependency section */
 		EEA7CE7C19347768007525A3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EEA7CE5119347767007525A3 /* test */;
+			target = EEA7CE5119347767007525A3 /* TEST0812.temp_caseinsensitive_rename */;
 			targetProxy = EEA7CE7B19347768007525A3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -399,9 +399,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "test/test-Prefix.pch";
-				INFOPLIST_FILE = "test/test-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "test/TEST0812.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "test/TEST0812.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = TEST0812.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -412,9 +412,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "test/test-Prefix.pch";
-				INFOPLIST_FILE = "test/test-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "test/TEST0812.temp_caseinsensitive_rename-Prefix.pch";
+				INFOPLIST_FILE = "test/TEST0812.temp_caseinsensitive_rename-Info.plist";
+				PRODUCT_NAME = TEST0812.temp_caseinsensitive_rename;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -435,8 +435,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "testTests/testTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "testTests/TEST0812.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = TEST0812.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -454,8 +454,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "test/test-Prefix.pch";
-				INFOPLIST_FILE = "testTests/testTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "testTests/TEST0812.temp_caseinsensitive_renameTests-Info.plist";
+				PRODUCT_NAME = TEST0812.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -464,7 +464,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EEA7CE4D19347767007525A3 /* Build configuration list for PBXProject "test" */ = {
+		EEA7CE4D19347767007525A3 /* Build configuration list for PBXProject "TEST0812" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEA7CE8519347768007525A3 /* Debug */,
@@ -473,7 +473,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEA7CE8719347768007525A3 /* Build configuration list for PBXNativeTarget "test" */ = {
+		EEA7CE8719347768007525A3 /* Build configuration list for PBXNativeTarget "TEST0812.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEA7CE8819347768007525A3 /* Debug */,
@@ -482,7 +482,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EEA7CE8A19347768007525A3 /* Build configuration list for PBXNativeTarget "testTests" */ = {
+		EEA7CE8A19347768007525A3 /* Build configuration list for PBXNativeTarget "TEST0812.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EEA7CE8B19347768007525A3 /* Debug */,
