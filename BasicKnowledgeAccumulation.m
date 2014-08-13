@@ -12,15 +12,13 @@
 
 @end
 /*
- NSMutableDictionary的使用方法 NSString
- 
- 
+ //NSMutableDictionary的使用方法
  @property(nonatomic,strong)NSMutableDictionary* dataSourceDic;
  self.dataSourceDic=[NSMutableDictionary dictionaryWithCapacity:2];
  */
 
  /*
- 生成1024*1024*2的数据以测试APP间通过URL方式转递数据的大小
+ //生成1024*1024*2的数据以测试APP间通过URL方式转递数据的大小
  unsigned char* pemdata = NULL;
  unsigned long pemdatalen = 1024*1024;
  pemdata = (unsigned char*)malloc(pemdatalen);
