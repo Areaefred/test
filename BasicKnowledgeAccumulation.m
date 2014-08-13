@@ -31,14 +31,19 @@
  NSLog(@"strTmp=%@",strTmp);
  */
  
+ /*
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+UIAlertView *alert=[[UIAlertView alloc] initWithTitle:@"第一次"
+                                              message:@"进入App"
+                                             delegate:self
+                                    cancelButtonTitle:@"我知道了"
+                                    otherButtonTitles:nil];
+[alert show];
+
+*/
+
+
+
+
+
+

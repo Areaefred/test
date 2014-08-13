@@ -10,6 +10,7 @@
 		EE566B0C1999DAE400144DCE /* BasicKnowledgeAccumulation.m in Sources */ = {isa = PBXBuildFile; fileRef = EE566B0B1999DAE400144DCE /* BasicKnowledgeAccumulation.m */; };
 		EE9019EB193ACBB600A8E3F2 /* Nurse.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9019EA193ACBB600A8E3F2 /* Nurse.m */; };
 		EE9019EE193AD53900A8E3F2 /* Mother.m in Sources */ = {isa = PBXBuildFile; fileRef = EE9019ED193AD53900A8E3F2 /* Mother.m */; };
+		EEA1B367199AF4280084192E /* Records.rtf in Resources */ = {isa = PBXBuildFile; fileRef = EEA1B366199AF4280084192E /* Records.rtf */; };
 		EEA7CE5619347767007525A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA7CE5519347767007525A3 /* Foundation.framework */; };
 		EEA7CE5819347767007525A3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA7CE5719347767007525A3 /* CoreGraphics.framework */; };
 		EEA7CE5A19347767007525A3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA7CE5919347767007525A3 /* UIKit.framework */; };
@@ -45,6 +46,7 @@
 		EE9019EA193ACBB600A8E3F2 /* Nurse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Nurse.m; sourceTree = "<group>"; };
 		EE9019EC193AD53900A8E3F2 /* Mother.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mother.h; sourceTree = "<group>"; };
 		EE9019ED193AD53900A8E3F2 /* Mother.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mother.m; sourceTree = "<group>"; };
+		EEA1B366199AF4280084192E /* Records.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Records.rtf; sourceTree = "<group>"; };
 		EEA7CE5219347767007525A3 /* TEST0812.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEST0812.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEA7CE5519347767007525A3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		EEA7CE5719347767007525A3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -92,16 +94,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EEA7CE4919347767007525A3 = {
+		EEA1B368199AF4D80084192E /* Delegate */ = {
 			isa = PBXGroup;
 			children = (
-				EE566B0A1999DAE400144DCE /* BasicKnowledgeAccumulation.h */,
-				EE566B0B1999DAE400144DCE /* BasicKnowledgeAccumulation.m */,
-				EE9019EC193AD53900A8E3F2 /* Mother.h */,
 				EE9019ED193AD53900A8E3F2 /* Mother.m */,
 				EE9019E9193ACBB600A8E3F2 /* Nurse.h */,
 				EE9019EA193ACBB600A8E3F2 /* Nurse.m */,
 				EE9019E8193ACAFE00A8E3F2 /* Job.h */,
+				EE9019EC193AD53900A8E3F2 /* Mother.h */,
+			);
+			name = Delegate;
+			sourceTree = "<group>";
+		};
+		EEA7CE4919347767007525A3 = {
+			isa = PBXGroup;
+			children = (
+				EEA1B368199AF4D80084192E /* Delegate */,
+				EEA1B366199AF4280084192E /* Records.rtf */,
+				EE566B0A1999DAE400144DCE /* BasicKnowledgeAccumulation.h */,
+				EE566B0B1999DAE400144DCE /* BasicKnowledgeAccumulation.m */,
 				EEA7CE5B19347767007525A3 /* test */,
 				EEA7CE7D19347768007525A3 /* testTests */,
 				EEA7CE5419347767007525A3 /* Frameworks */,
@@ -253,6 +264,7 @@
 				EEA7CE7119347768007525A3 /* Images.xcassets in Resources */,
 				EEA7CE6019347767007525A3 /* InfoPlist.strings in Resources */,
 				EEA7CE6919347768007525A3 /* Main.storyboard in Resources */,
+				EEA1B367199AF4280084192E /* Records.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
