@@ -120,7 +120,7 @@ UIAlertView *alert=[[UIAlertView alloc] initWithTitle:@"标题" message:@"内容
   }
   }
   
-  
+   NSDictionary* Sign_item=@{@"SignTime":nowTime,@"Content":str_content,@"Sign":Sign};
 */
 
 
