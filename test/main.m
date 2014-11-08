@@ -12,9 +12,27 @@
 #import "Nurse.h"
 #import "Job.h"
 
+int (^oneFrom)(int) = ^(int anInt) {
+    return anInt - 1;
+};
+
+//函数返回值(^函数名称)(变量1类型,变量2类型,........)=^(变量1类型 变量1名称,变量1类型 变量2名称,........){函数体}
+float(^aBlock)(int,int) = ^( int num1,int num2) {
+    return (float)(num1+num2);
+};
+
+float (^distanceTraveled) (float, float, float) =^(float startingSpeed, float acceleration, float time) {
+    float distance = (startingSpeed * time) + (0.5 * acceleration * time * time);
+    return distance;
+};
+
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
+        
+        
+        NSLog(@"%d,%f,%f", oneFrom(51),aBlock(51,49),distanceTraveled(1,2,3));
+        
         NSString *name=[[NSString alloc] initWithFormat:@"小花"];
         Nurse *nurse=[[Nurse alloc] init];//代理人 nurse
         Mother *mother=[[Mother alloc] initWithName:name delegate:nurse];//这样就将代理人传入mother对象中，这样mother对象便可以通过nurse来完成她自己不能做的事情了。

@@ -12,8 +12,11 @@
 
 @end
 /*
- //NSMutableDictionary的使用方法
+
  @property(nonatomic,strong)NSMutableDictionary* dataSourceDic;
+ @property(nonatomic,strong)MyClass1 *objectA;
+ 
+  //NSMutableDictionary的使用方法
  self.dataSourceDic=[NSMutableDictionary dictionaryWithCapacity:2];
  */
 /*

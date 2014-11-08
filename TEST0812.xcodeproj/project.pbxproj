@@ -97,11 +97,11 @@
 		EEA1B368199AF4D80084192E /* Delegate */ = {
 			isa = PBXGroup;
 			children = (
+				EE9019EC193AD53900A8E3F2 /* Mother.h */,
 				EE9019ED193AD53900A8E3F2 /* Mother.m */,
 				EE9019E9193ACBB600A8E3F2 /* Nurse.h */,
 				EE9019EA193ACBB600A8E3F2 /* Nurse.m */,
 				EE9019E8193ACAFE00A8E3F2 /* Job.h */,
-				EE9019EC193AD53900A8E3F2 /* Mother.h */,
 			);
 			name = Delegate;
 			sourceTree = "<group>";
