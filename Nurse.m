@@ -12,7 +12,7 @@
 
 -(void)takeEat;
 {
-    NSLog(@"%小孩饿了，喂它吃饭");
+    NSLog(@"小孩饿了，喂它吃饭");
 }
 
 -(void)takeSleep;
